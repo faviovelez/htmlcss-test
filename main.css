@@ -71,6 +71,11 @@ body {
 	margin:0 auto;
 }
 
+
+.jumbo {
+	margin:10% 0;
+}
+
 .second {
 	height: 55vh;
 	background: black;
@@ -317,7 +322,7 @@ img + p {
 	}
 
 	.second {
-		height: 115vh;
+		height: 140vh;
 	}
 	
 	iframe {
